@@ -1,3 +1,5 @@
-/vendor
-/composer.phar
-/composer.lock
+/vendor/
+composer.lock
+.phplint-cache
+.php_cs.cache
+.idea
