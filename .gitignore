@@ -2,4 +2,4 @@
 composer.lock
 .phplint-cache
 .phpcs-cache
-.idea
+.idea/
